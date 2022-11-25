@@ -1,5 +1,5 @@
 # Car_Parking_System_with_arduino
-It's a 7th Semester Project. 
+It's a 7th Semester Micro-Controller Project. 
 
 # Contributing
 Your contributions are always welcome!
